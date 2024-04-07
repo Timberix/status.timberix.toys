@@ -10,7 +10,7 @@ status-website:
   theme: light
   cname: status.timberix.toys
   logoUrl: https://timberix.toys/wp-content/uploads/2024/01/timberix-logo.svg
-  #name: Status
+  name: ""
   navbar:
     - title: Status
       href: /
