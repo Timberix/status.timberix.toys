@@ -9,13 +9,23 @@ sites:
 status-website:
   theme: light
   cname: status.timberix.toys
+  favicon: https://timberix.toys/wp-content/uploads/2024/01/cropped-timberix-favicon-32x32.png
   logoUrl: https://timberix.toys/wp-content/uploads/2024/01/timberix-logo.svg
-  name: ""
+  name: Status
   navbar:
     - title: Status
       href: /
     - title: Website
       href: https://timberix.toys
+
+workflowSchedule:
+  graphs: "0 */6 * * *"           # Every 6 hours
+  responseTime: "*/30 * * * *"  # Every 30 minutes
+  staticSite: "0 1 * * *"       # Daily at 1 AM
+  summary: "0 0 * * *"          # Daily at midnight
+  updateTemplate: "0 0 * * *"   # Daily at midnight
+  updates: "0 3 * * *"          # Daily at 3 AM
+  uptime: "*/5 * * * *"         # Every 5 minutes
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
