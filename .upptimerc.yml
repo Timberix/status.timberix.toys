@@ -8,11 +8,8 @@ sites:
 
 status-website:
   theme: light
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.timberix.toys
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://timberix.toys/wp-content/uploads/2024/01/timberix-logo.svg
   name: TIMBERIX Status
   introTitle: "Status for timberix.toys."
   introMessage: ""
