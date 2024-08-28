@@ -4,17 +4,19 @@
     "url": "https://timberix.toys",
     "icon": "https://icons.duckduckgo.com/ip3/timberix.toys.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1137,
-    "timeDay": 1170,
-    "timeWeek": 1202,
-    "timeMonth": 1184,
+    "timeDay": 1270,
+    "timeWeek": 1206,
+    "timeMonth": 1187,
     "timeYear": 1137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-28": 0
+    }
   }
 ]
