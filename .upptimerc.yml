@@ -8,7 +8,7 @@ sites:
 
 status-website:
   theme: light
-  cname: status.timberix.toys
+  cname: status-gh.timberix.toys
   favicon: https://timberix.toys/wp-content/uploads/2024/01/cropped-timberix-favicon-32x32.png
   logoUrl: https://timberix.toys/wp-content/uploads/2024/01/timberix-logo.svg
   name: Status
